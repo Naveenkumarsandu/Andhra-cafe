@@ -1,0 +1,6 @@
+{
+  "name": "Andhra Cafe",
+  "description": "A cozy, rustic web experience for Andhra Cafe, highlighting traditional filter coffee, Araku Valley heritage, authentic breakfast pairings, and an interactive AI coffee master companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
